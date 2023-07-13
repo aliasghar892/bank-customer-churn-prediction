@@ -1,2 +1,2 @@
-<b>bank-customer-churn-prediction</b><br> 
+# bank customer churn prediction 
 based on dataset from Kaggle
