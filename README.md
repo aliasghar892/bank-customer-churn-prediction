@@ -18,3 +18,7 @@ f1 score is around 60%<br>
 test score is around 81%
 
 **because of the randomness of random forest, result will be different (but close) in each run**
+
+# update
+
+with t-sne showed that standard scaler will increase performance , applying that caused 1% performance increse (f1score)
